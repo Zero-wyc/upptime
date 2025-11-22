@@ -1,36 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: upptime #您的GitHub组织或用户名（此存储库所在的位置）
+repo: upptime # 此存储库的名称
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Zero251.xyz
+    url: https://Zero251.xyz
+  - name: blog.Zero251.xyz
+    url: https://blog.Zero251.xyz
+  - name: p.zero251.xyz
+    url: https://p.zero251.xyz
+  - name: dx.zero251.xyz
+    url: http://dx.zero251.xyzw
     port: 80
     check: "tcp-ping"
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # 添加您的自定义域名，或者如果您没有域名，请删除 `cname` 行
+  # 如果您没有自定义域名，请取消注释 `baseUrl` 行并添加您的仓库名称
+  # cname: upptime.zero251.xyz
+  baseUrl: /your-repo-name
+  logoUrl: https://p.zero251.xyz/i/2025/03/28/甘城.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** 是一个开源的正常运行时间监控和状态页面，完全由 GitHub 提供支持。"
+  introMessage: "这是一个示例状态页面，使用我们[GitHub 仓库](https://github.com/upptime/upptime)的**实时**数据。无需服务器 — 仅需 GitHub Actions、Issues 和 Pages。[**立即免费获取**](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Upptime 还支持通知、指派 issues（问题）等更多功能
+# 参见 https://upptime.js.org/docs/configuration
