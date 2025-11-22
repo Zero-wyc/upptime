@@ -18,8 +18,8 @@ sites:
 status-website:
   # 添加您的自定义域名，或者如果您没有域名，请删除 `cname` 行
   # 如果您没有自定义域名，请取消注释 `baseUrl` 行并添加您的仓库名称
-  # cname: upptime.zero251.xyz
-  baseUrl: /your-repo-name
+  cname: upptime.zero251.xyz
+  # baseUrl: /your-repo-name
   logoUrl: https://p.zero251.xyz/i/2025/03/28/甘城.svg
   name: Upptime
   introTitle: "**Upptime** 是一个开源的正常运行时间监控和状态页面，完全由 GitHub 提供支持。"
