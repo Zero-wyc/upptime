@@ -10,7 +10,7 @@ sites:
   - name: p.zero251.xyz
     url: https://p.zero251.xyz
   - name: dx.zero251.xyz
-    url: http://dx.zero251.xyzw
+    url: http://dx.zero251.xyz
     port: 80
     check: "tcp-ping"
     ipv6: true
