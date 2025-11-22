@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dx.zero251.xyzw.ico",
     "slug": "dx-zero251-xyz",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "5.53%",
+    "uptimeDay": "5.53%",
+    "uptimeWeek": "5.53%",
+    "uptimeMonth": "5.53%",
+    "uptimeYear": "5.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-22": 0
+    }
   }
 ]
