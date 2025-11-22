@@ -7,8 +7,12 @@ sites:
     url: https://Zero251.xyz
   - name: blog.Zero251.xyz
     url: https://blog.Zero251.xyz
+  - name: typing.Zero251.xyz
+    url: https://typing.Zero251.xyz
   - name: p.zero251.xyz
     url: https://p.zero251.xyz
+  - name: openlist.Zero251.xyz
+    url: http://openlist.dx.Zero251.xyz
   - name: dx.zero251.xyz
     url: http://dx.zero251.xyz
     port: 80
