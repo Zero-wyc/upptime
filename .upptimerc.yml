@@ -11,8 +11,10 @@ sites:
     url: https://typing.Zero251.xyz
   - name: p.zero251.xyz
     url: https://p.zero251.xyz
+  - name: openlist.dx.Zero251.xyz
+    url: http://openlist.Zero251.xyz
   - name: openlist.Zero251.xyz
-    url: http://openlist.dx.Zero251.xyz
+    url: http://openlist.dx.Zero251.xyz  
   - name: dx.zero251.xyz
     url: http://dx.zero251.xyz
     port: 80
