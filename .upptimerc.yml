@@ -14,12 +14,7 @@ sites:
   - name: openlist.dx.Zero251.xyz
     url: http://openlist.Zero251.xyz
   - name: openlist.Zero251.xyz
-    url: http://openlist.dx.Zero251.xyz  
-  - name: dx.zero251.xyz
-    url: http://dx.zero251.xyz
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
 
 status-website:
   # 添加您的自定义域名，或者如果您没有域名，请删除 `cname` 行
