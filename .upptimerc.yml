@@ -22,9 +22,9 @@ status-website:
   cname: upptime.zero251.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://p.zero251.xyz/i/2025/03/28/甘城.svg
-  name: Upptime
-  introTitle: "**Upptime** 是一个开源的正常运行时间监控和状态页面，完全由 GitHub 提供支持。"
-  introMessage: "这是一个示例状态页面，使用我们[GitHub 仓库](https://github.com/upptime/upptime)的**实时**数据。无需服务器 — 仅需 GitHub Actions、Issues 和 Pages。[**立即免费获取**](https://github.com/upptime/upptime)"
+  name: Upptime-网站运行状态面板
+  introTitle: 由 GitHub 提供支持。"
+  introMessage: "来主页看看捏[Zero251.xyz](https://Zero251.xyz)"
   navbar:
     - title: Status
       href: /
