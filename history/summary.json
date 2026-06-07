@@ -8,7 +8,7 @@
     "uptime": "87.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.78%",
+    "uptimeMonth": "68.99%",
     "uptimeYear": "87.96%",
     "time": 352,
     "timeDay": 255,
@@ -190,16 +190,16 @@
     "url": "https://p.zero251.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/p.zero251.xyz.ico",
     "slug": "p-zero251-xyz",
-    "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.18%",
+    "status": "up",
+    "uptime": "98.15%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.15%",
     "time": 343,
-    "timeDay": 22,
-    "timeWeek": 261,
-    "timeMonth": 234,
+    "timeDay": 247,
+    "timeWeek": 288,
+    "timeMonth": 241,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-11-29": 897,
@@ -242,7 +242,7 @@
       "2026-05-24": 63,
       "2026-05-25": 185,
       "2026-05-31": 264,
-      "2026-06-07": 0
+      "2026-06-07": 90
     }
   },
   {
