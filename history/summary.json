@@ -268,16 +268,16 @@
     "url": "http://openlist.Zero251.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/openlist.zero251.xyz.ico",
     "slug": "openlist-zero251-xyz",
-    "status": "down",
-    "uptime": "87.63%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "87.63%",
+    "status": "up",
+    "uptime": "87.61%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "87.61%",
     "time": 618,
-    "timeDay": 657,
-    "timeWeek": 615,
-    "timeMonth": 604,
+    "timeDay": 617,
+    "timeWeek": 610,
+    "timeMonth": 603,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-11-23": 313,
@@ -327,7 +327,7 @@
       "2026-02-24": 1440,
       "2026-02-23": 318,
       "2026-07-19": 55,
-      "2026-07-24": 0
+      "2026-07-24": 86
     }
   }
 ]
