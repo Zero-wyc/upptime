@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zero251.xyz.ico",
     "slug": "zero251-xyz",
     "status": "up",
-    "uptime": "90.40%",
+    "uptime": "90.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.40%",
+    "uptimeYear": "90.42%",
     "time": 356,
     "timeDay": 195,
     "timeWeek": 225,
@@ -80,11 +80,11 @@
     "url": "https://blog.Zero251.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zero251.xyz.ico",
     "slug": "blog-zero251-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.13%",
     "time": 418,
     "timeDay": 224,
@@ -135,7 +135,8 @@
       "2026-06-20": 269,
       "2026-06-27": 62,
       "2026-06-30": 218,
-      "2026-07-10": 156
+      "2026-07-10": 156,
+      "2026-07-28": 10
     }
   },
   {
@@ -143,11 +144,11 @@
     "url": "https://typing.Zero251.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/typing.zero251.xyz.ico",
     "slug": "typing-zero251-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.27%",
     "time": 322,
     "timeDay": 260,
@@ -195,7 +196,8 @@
       "2026-06-18": 266,
       "2026-06-27": 57,
       "2026-06-30": 213,
-      "2026-07-10": 152
+      "2026-07-10": 152,
+      "2026-07-28": 5
     }
   },
   {
@@ -203,9 +205,9 @@
     "url": "https://p.zero251.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/p.zero251.xyz.ico",
     "slug": "p-zero251-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "98.30%",
@@ -260,7 +262,8 @@
       "2026-06-18": 261,
       "2026-06-27": 52,
       "2026-06-30": 208,
-      "2026-07-10": 147
+      "2026-07-10": 147,
+      "2026-07-28": 0
     }
   },
   {
@@ -269,11 +272,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/openlist.zero251.xyz.ico",
     "slug": "openlist-zero251-xyz",
     "status": "up",
-    "uptime": "87.77%",
+    "uptime": "87.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "87.77%",
+    "uptimeYear": "87.80%",
     "time": 617,
     "timeDay": 626,
     "timeWeek": 589,
